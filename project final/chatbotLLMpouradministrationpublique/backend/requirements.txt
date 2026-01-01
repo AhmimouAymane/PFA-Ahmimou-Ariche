@@ -1,0 +1,43 @@
+# Core dependencies
+Flask
+Flask-CORS
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+pymysql
+cryptography
+python-dotenv
+
+# LangChain and OpenAI
+# LangChain and AI
+langchain
+langchain-community
+langchain-core
+transformers
+torch
+sentencepiece
+sacremoses
+langdetect
+accelerate
+bitsandbytes
+# langchain-google-genai
+
+# Text processing and language detection
+langdetect
+# sentence-transformers
+
+# Utilities
+pydantic
+requests
+bcrypt
+PyJWT
+ollama
+
+# Testing
+pytest
+pytest-cov
+pytest-flask
+
+# Development
+black
+flake8
